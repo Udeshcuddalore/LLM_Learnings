@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+venv/
+.venv/
+env/
+
+# Ignore specific file types
+*.pdf
+*.txt
+*.xml
+!requirements.txt
+# Optional: If you want to keep a specific text file (like README.txt)
+# !README.txt
