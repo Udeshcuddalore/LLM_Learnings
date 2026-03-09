@@ -12,5 +12,6 @@ env/
 *:Zone.Identifier
 *.xml
 !requirements.txt
+*.code-workspace
 # Optional: If you want to keep a specific text file (like README.txt)
 # !README.txt
