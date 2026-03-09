@@ -6,6 +6,8 @@ env/
 # Ignore specific file types
 *.pdf
 *.txt
+*.env
+**/.env
 *.xml
 !requirements.txt
 # Optional: If you want to keep a specific text file (like README.txt)
