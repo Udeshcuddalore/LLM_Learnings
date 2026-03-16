@@ -15,3 +15,5 @@ env/
 *.code-workspace
 # Optional: If you want to keep a specific text file (like README.txt)
 # !README.txt
+faiss_index/
+chroma_db/
